@@ -65,8 +65,11 @@
 ### A01 [02 h/a]
 
 Conteúdo: Aula Inaugural
+
 Objetivos: Apresentação dos Conteúdos Programáticos, Planejamento e Métodos de Avaliação da Disciplina
+
 Procedimentos Metodológicos: -
+
 Avaliação: -
 
 ### A02 [04 h/a]
