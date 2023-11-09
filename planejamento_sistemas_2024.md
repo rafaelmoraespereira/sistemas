@@ -16,8 +16,8 @@
 - [A07 Gerenciamento de Pacotes](https://youtu.be/uQVw1K1csxQ?si=v1kM14wWvS3bYYZC)
 - [A08 Gerenciamento de Memória e Processos](https://youtu.be/76W5ixOjlDo?si=6QDy1hcb-zzOq8kV)
 - [A09 Gerenciamento de Permissões](https://youtu.be/LIcP8ZCfbDA?si=3gsxqbyux-A7d6Ot)
-- A10 Filtros e Desvios
-- A11 Compactação de Arquivos
+- [A10 Filtros e Desvios](https://youtu.be/BafYVEgBK4c?si=YkhQPkzFmIPqUnTV)
+- [A11 Compactação de Arquivos](https://youtu.be/NWc8ewFqbYY)
 - A12 Encontrando Arquivos no Sistema
 
 ### 3o. BIMESTRE
@@ -56,8 +56,8 @@
 - [HANDOUT-07 Gerenciamento de Pacotes](https://docs.google.com/document/d/1fDruuY3_Qq25bG2aT_UKcZrt-aTLcKIF2hlAdqffsxM/edit?usp=sharing)
 - [HANDOUT-08 Gerenciamento de Memória e Processos](https://docs.google.com/document/d/14VmfR9J-n6xSFfoI85AdG7yW_obHkKeudbyRMratby8/edit?usp=sharing)
 - [HANDOUT-09 Gerenciamento de Permissões](https://docs.google.com/document/d/15AvrKSmVdAP6hmFAQAPTOiXY0fKeD_aUv-d1Whqk_UE/edit?usp=sharing)
-- HANDOUT-10 Filtros e Desvios
-- HANDOUT-11 Compactação de Arquivos
+- [HANDOUT-10 Filtros e Desvios](https://docs.google.com/document/d/11wmJQc0yPwaV-hpkCk0aPM4WikOYVhUJPPH1wKPxFL4/edit?usp=sharing)
+- [HANDOUT-11 Compactação de Arquivos](https://docs.google.com/document/d/1PI6n3Un01Wu5rOosc5bjxLGoHxD_zJbfMtitm7tufQE/edit?usp=sharing)
 - HANDOUT-12 Encontrando Arquivos no Sistema
 
 ## B01 [40 h/a no total]
