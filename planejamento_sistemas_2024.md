@@ -58,7 +58,7 @@
 - [HANDOUT-09 Gerenciamento de Permissões](https://docs.google.com/document/d/15AvrKSmVdAP6hmFAQAPTOiXY0fKeD_aUv-d1Whqk_UE/edit?usp=sharing)
 - [HANDOUT-10 Filtros e Desvios](https://docs.google.com/document/d/11wmJQc0yPwaV-hpkCk0aPM4WikOYVhUJPPH1wKPxFL4/edit?usp=sharing)
 - [HANDOUT-11 Compactação de Arquivos](https://docs.google.com/document/d/1PI6n3Un01Wu5rOosc5bjxLGoHxD_zJbfMtitm7tufQE/edit?usp=sharing)
-- HANDOUT-12 Encontrando Arquivos no Sistema
+- [HANDOUT-12 Encontrando Arquivos no Sistema](https://docs.google.com/document/d/1HVK3uej7qZDy3PmHqE5GlAstDuc9cjg1bKlRWgMpLQw/edit?usp=sharing)
 
 ## B01 [40 h/a no total]
 
