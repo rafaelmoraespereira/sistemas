@@ -18,7 +18,7 @@
 - [A09 Gerenciamento de Permissões](https://youtu.be/LIcP8ZCfbDA?si=3gsxqbyux-A7d6Ot)
 - [A10 Filtros e Desvios](https://youtu.be/BafYVEgBK4c?si=YkhQPkzFmIPqUnTV)
 - [A11 Compactação de Arquivos](https://youtu.be/NWc8ewFqbYY)
-- A12 Encontrando Arquivos no Sistema
+- [A12 Encontrando Arquivos no Sistema](https://youtu.be/bc4ie3B_ecU)
 
 ### 3o. BIMESTRE
 
